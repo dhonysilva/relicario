@@ -152,12 +152,7 @@ function Footer() {
           </ul>
 
           {/* Copyrights note */}
-<<<<<<< HEAD
           <div className="text-sm text-gray-600 mr-4">&copy; 2021 relicar.io</div>
-=======
-          <div className="text-sm text-gray-600 mr-4">&copy; 2020 Simple. All rights reserved.</div>
->>>>>>> 5be979221d673b4982660c881eabc03e5781819c
-
         </div>
 
       </div>
